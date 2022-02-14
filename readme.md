@@ -2,7 +2,7 @@
 Dateien rund um den automatisierten Betrieb einer professionellen Immobilienmakler-Website.
 
 Betrieb einer Immobilienmakler-Homepage mit Anbindung an Maklersoftware "OnOffice" via OpenImmo-Schnittstelle. Dabei werden Objektdaten von 
-[Spotlight Real Estate](https://spotlkight-real.de) inklusive Bilder von OnOffice an den Webserver übertragen, dort verarbeitet und anschließend mit WordPress Colibri in die Ziel-WordPress-Installation eingepflegt.
+[Spotlight Real Estate](https://spotlight-real.de) inklusive Bilder von OnOffice an den Webserver übertragen, dort verarbeitet und anschließend mit WordPress Colibri in die Ziel-WordPress-Installation eingepflegt.
 
 # Immobilien Bogenhausen, München
 Spotlight ist einer der führenden Immobilienmakler Münchens mit Standort in Bogenhausen. Wir bedienen auch das östliche Umland wie Aschheim, Unterföhring, Ismaning und Garching.
