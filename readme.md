@@ -10,13 +10,13 @@ Hinweis: das Projekt ist aktuell noch IM AUFBAU!!! Ich nehme gerne dazu Hilfeste
 Es folgt eine kurze Beschreibung meiner Firma - für einen besseren Hintergrund meiner Zielsetzung.
 
 # Mein Portfolio: Immobilien Bogenhausen, München
-Spotlight ist einer der innovativsten Immobilienmakler aus München mit Standort in Bogenhausen. Wir bedienen auch das östliche Umland wie Aschheim, Unterföhring, Ismaning und Garching. Unser Einzugsgebiet sind circa 30.000 Haushalte. Wir verkaufen circa 10-50 Immobilien jedes Jahr - dabei sind alle Tyen dabei. Tendenz steigend. Daher ist Automatisierung wichtig.
+Spotlight ist ein Immobilienmakler aus München mit Standort in Bogenhausen. Wir bedienen auch das Umland. Unser Einzugsgebiet sind circa 30.000 Haushalte. Wir verkaufen circa 10-50 Immobilien jedes Jahr - dabei sind alle Tyen dabei. Tendenz steigend. Daher ist Automatisierung wichtig, um die verschiedenen Typen automatisert zu sychronisieren.
 
 # Hausverkauf und Wohnugsverkauf - fast automatisiert dank GitHub
-Den klassischen Verkauf bedienen wir auf innovative Art und Weise. Uns geht es dabei um Schnelligkeit - die wir mit dem geplanten Plugin verbessern können. Idealerweise ganz ohne manuellen Aufwand.
+Den klassischen Verkauf bedienen wir auf neuartige Art und Weise. Uns geht es dabei um Schnelligkeit - die wir mit dem geplanten Plugin verbessern können. Idealerweise ganz ohne manuellen Aufwand.
 
 # Grundstücksverkauf - Datentransfer
-Wir bewerten Grundstücke, und verkaufen es direkt oder entwickeln es wertmaximierend mit unserem Partnernetzwerk weiter. Dazu möchten wir auch Grundstücksdaten zuverlässig synchronisieren können.
+Wir bewerten Grundstücke, und verkaufen es direkt oder entwickeln es mit unserem Partnernetzwerk weiter. Dazu möchten wir auch Grundstücksdaten zuverlässig synchronisieren können - mit dem Plugin.
 
 # Immobilienbewertung - für später
 Die Bewertung von Haus, Wohnung und Grundstück bieten wir in zwei Varianten an: Die Sofortbewertung erfolgt online und ist kostenlos. Darüber hinaus ist eine ausführliche Premium-Bewertung möglich. Dazu analysieren wir vor Ort alle wesentlichen Faktoren und Beraten Sie zum Verkaufspreis. Für die Sofortbewertung planen wir auch ein Git-Hub-Projekt. Dies wird aber später erfolgen, in einer geplanten Phase 2.
