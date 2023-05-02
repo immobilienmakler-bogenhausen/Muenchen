@@ -3,7 +3,7 @@ Dies ist ein Projekt rund um den automatisierten Betrieb einer professionellen I
 
 Kernziel:
 Betrieb einer Immobilienmakler-Homepage mit Anbindung an Maklersoftware "PropStack" via OpenImmo-Schnittstelle. Dabei werden Objektdaten von 
-[Spotlight Real Estate](https://spotlight-real.de) inklusive Bilder von PropStack auf den Strato-Webserver übertragen, dort verarbeitet und anschließend mit WordPress Colibri in die Ziel-WordPress-Installation eingepflegt. Es geht mir dabei um eine maximale Automatisierung. Dies möchte ich am Ende als eigenes Wordpress-Plugin kostenfrei meinen Immobilienmakler-Kollegen anbieten.
+meiner Webseite als [Immobilienmakler München Ost](https://spotlight-real.de) inklusive Bilder von PropStack auf den Strato-Webserver übertragen, dort verarbeitet und anschließend mit WordPress Colibri in die Ziel-WordPress-Installation eingepflegt. Es geht mir dabei um eine maximale Automatisierung. Dies möchte ich am Ende als eigenes Wordpress-Plugin kostenfrei meinen Immobilienmakler-Kollegen anbieten.
 
 Hinweis: das Projekt ist aktuell noch IM AUFBAU!!! Ich nehme gerne dazu Hilfestellungen aus der Community entgegen - siehe auch mein Aufruf am Ende.
 
